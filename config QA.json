@@ -1,0 +1,8 @@
+{
+    "port": "3000",
+    "client_id": "jharari_qa",
+    "client_secret": "FB8989C6-00EB-5725-E053-1E10480ABEEB",
+    "oauth_url": "https://fxcm-environment-specific.com",
+    "redirect_url": "http://SOF2-LAP-23692:3000/authorized",
+    "redirect_logout_url": "http://SOF2-LAP-23692:3000/authorized"
+}

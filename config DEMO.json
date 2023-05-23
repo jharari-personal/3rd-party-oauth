@@ -1,0 +1,8 @@
+{
+    "port": "3000",
+    "client_id": "jharari_prod",
+    "client_secret": "FB899BDE-D918-C259-E053-0A283C0A3A59",
+    "oauth_url": "https://oauth-demo.fxcorporate.com",
+    "redirect_url": "http://SOF2-LAP-23692:3000/authorized",
+    "redirect_logout_url": "http://SOF2-LAP-23692:3000/authorized"
+}
